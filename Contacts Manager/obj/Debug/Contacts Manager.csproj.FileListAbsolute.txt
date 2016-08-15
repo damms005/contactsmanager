@@ -1,0 +1,38 @@
+\\VBOXSVR\media\deo\windowsbase\SharpDevelop Projects\SchoolServer_100\Contacts Manager\bin\Debug\Contacts Manager.exe.config
+\\VBOXSVR\media\deo\windowsbase\SharpDevelop Projects\SchoolServer_100\Contacts Manager\bin\Debug\Contacts Manager.exe
+\\VBOXSVR\media\deo\windowsbase\SharpDevelop Projects\SchoolServer_100\Contacts Manager\bin\Debug\Contacts Manager.pdb
+\\VBOXSVR\media\deo\windowsbase\SharpDevelop Projects\SchoolServer_100\Contacts Manager\bin\Debug\MetroFramework.Design.dll
+\\VBOXSVR\media\deo\windowsbase\SharpDevelop Projects\SchoolServer_100\Contacts Manager\bin\Debug\MetroFramework.dll
+\\VBOXSVR\media\deo\windowsbase\SharpDevelop Projects\SchoolServer_100\Contacts Manager\bin\Debug\MetroFramework.Fonts.dll
+\\VBOXSVR\media\deo\windowsbase\SharpDevelop Projects\SchoolServer_100\Contacts Manager\bin\Debug\MetroFramework.pdb
+\\VBOXSVR\media\deo\windowsbase\SharpDevelop Projects\SchoolServer_100\Contacts Manager\obj\Debug\Contacts Manager.csprojResolveAssemblyReference.cache
+\\VBOXSVR\media\deo\windowsbase\SharpDevelop Projects\SchoolServer_100\Contacts Manager\obj\Debug\Contacts_Manager.MainWindow.resources
+\\VBOXSVR\media\deo\windowsbase\SharpDevelop Projects\SchoolServer_100\Contacts Manager\obj\Debug\Contacts_Manager.Properties.Resources.resources
+\\VBOXSVR\media\deo\windowsbase\SharpDevelop Projects\SchoolServer_100\Contacts Manager\obj\Debug\Contacts Manager.csproj.GenerateResource.Cache
+\\VBOXSVR\media\deo\windowsbase\SharpDevelop Projects\SchoolServer_100\Contacts Manager\obj\Debug\Contacts Manager.exe
+\\VBOXSVR\media\deo\windowsbase\SharpDevelop Projects\SchoolServer_100\Contacts Manager\obj\Debug\Contacts Manager.pdb
+C:\SharpDevelop Projects\SchoolServer_100\Contacts Manager\bin\Debug\Contacts Manager.exe.config
+C:\SharpDevelop Projects\SchoolServer_100\Contacts Manager\obj\Debug\Contacts Manager.exe
+C:\SharpDevelop Projects\SchoolServer_100\Contacts Manager\obj\Debug\Contacts Manager.pdb
+C:\SharpDevelop Projects\SchoolServer_100\Contacts Manager\bin\Debug\Contacts Manager.exe
+C:\SharpDevelop Projects\SchoolServer_100\Contacts Manager\bin\Debug\Contacts Manager.pdb
+C:\SharpDevelop Projects\SchoolServer_100\Contacts Manager\bin\Debug\MetroFramework.Design.dll
+C:\SharpDevelop Projects\SchoolServer_100\Contacts Manager\bin\Debug\MetroFramework.dll
+C:\SharpDevelop Projects\SchoolServer_100\Contacts Manager\bin\Debug\MetroFramework.Fonts.dll
+C:\SharpDevelop Projects\SchoolServer_100\Contacts Manager\bin\Debug\MetroFramework.pdb
+C:\SharpDevelop Projects\SchoolServer_100\Contacts Manager\obj\Debug\Contacts Manager.csprojResolveAssemblyReference.cache
+C:\SharpDevelop Projects\SchoolServer_100\Contacts Manager\obj\Debug\Contacts_Manager.MainWindow.resources
+C:\SharpDevelop Projects\SchoolServer_100\Contacts Manager\obj\Debug\Contacts_Manager.Properties.Resources.resources
+C:\SharpDevelop Projects\SchoolServer_100\Contacts Manager\obj\Debug\Contacts Manager.csproj.GenerateResource.Cache
+C:\SharpDevelop Projects\MyTools\Contacts Manager\Contacts Manager\bin\Debug\Contacts Manager.exe.config
+C:\SharpDevelop Projects\MyTools\Contacts Manager\Contacts Manager\bin\Debug\Contacts Manager.exe
+C:\SharpDevelop Projects\MyTools\Contacts Manager\Contacts Manager\bin\Debug\Contacts Manager.pdb
+C:\SharpDevelop Projects\MyTools\Contacts Manager\Contacts Manager\bin\Debug\MetroFramework.Design.dll
+C:\SharpDevelop Projects\MyTools\Contacts Manager\Contacts Manager\bin\Debug\MetroFramework.dll
+C:\SharpDevelop Projects\MyTools\Contacts Manager\Contacts Manager\bin\Debug\MetroFramework.Fonts.dll
+C:\SharpDevelop Projects\MyTools\Contacts Manager\Contacts Manager\bin\Debug\MetroFramework.pdb
+C:\SharpDevelop Projects\MyTools\Contacts Manager\Contacts Manager\obj\Debug\Contacts_Manager.MainWindow.resources
+C:\SharpDevelop Projects\MyTools\Contacts Manager\Contacts Manager\obj\Debug\Contacts_Manager.Properties.Resources.resources
+C:\SharpDevelop Projects\MyTools\Contacts Manager\Contacts Manager\obj\Debug\Contacts Manager.csproj.GenerateResource.Cache
+C:\SharpDevelop Projects\MyTools\Contacts Manager\Contacts Manager\obj\Debug\Contacts Manager.exe
+C:\SharpDevelop Projects\MyTools\Contacts Manager\Contacts Manager\obj\Debug\Contacts Manager.pdb
